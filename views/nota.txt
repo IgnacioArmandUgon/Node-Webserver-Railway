@@ -1,0 +1,1 @@
+La carpeta se tiene que llamar views acorde a handlebars
